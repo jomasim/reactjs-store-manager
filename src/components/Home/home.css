@@ -1,0 +1,14 @@
+*{
+    font-family: Raleway; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+}
+.ui.container .main-title{
+    font-size: 40px;
+    margin-top: 20%;
+}
+.main-segment{
+    min-height: 700px;
+    padding: 1em 0;
+}
+.sign-up-btn{
+    margin-left: 0.5em !important;
+}
